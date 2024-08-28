@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "20.13.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0",
+    "libraryName": "sharepointlist",
+    "libraryId": "2c0fa4b1-3790-49dc-b819-14c40abb9962",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "sharepointlist",
+    "solutionShortDescription": "sharepointlist description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
